@@ -14,4 +14,4 @@ jobs:
       - name: Show files
         run: ls -la
       - name: Check README exists
-        run: test -f README.md
+        run: test -f MISSING.md
